@@ -12,8 +12,8 @@ from pydantic_settings import BaseSettings, SettingsConfigDict
 class Settings(BaseSettings):
     model_config = SettingsConfigDict(env_prefix="APP_", extra="ignore")
 
-    name: str = "__APP_NAME__"
-    title: str = "__APP_TITLE__"
+    name: str = "meeting-vendors"
+    title: str = "Meeting Vendors"
     # When set, data comes from the platform data API. When empty, from fixtures/.
     data_api_url: str = ""
     fixtures_dir: Path = Path(__file__).resolve().parents[2] / "fixtures"

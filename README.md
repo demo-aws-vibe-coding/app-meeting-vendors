@@ -1,8 +1,8 @@
-# __APP_TITLE__
+# Meeting Vendors
 
-__APP_PURPOSE__
+Paste attendee names or emails from a meeting invite; the tool looks them up against the vendor directory and shows a summary of any suppliers in the list.
 
-Owner: __OWNER_EMAIL__ (__OWNER_TEAM__). Built on the platform paved road; see `CLAUDE.md` for how changes are made.
+Owner: adam.walton+citizen@aimbition.com (procurement). Built on the platform paved road; see `CLAUDE.md` for how changes are made.
 
 ## Run it locally
 

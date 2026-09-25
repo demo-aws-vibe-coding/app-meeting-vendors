@@ -1,7 +1,7 @@
 [project]
-name = "__APP_NAME__"
+name = "meeting-vendors"
 version = "0.1.0"
-description = "__APP_PURPOSE__"
+description = "Paste attendee names or emails from a meeting invite; the tool looks them up against the vendor directory and shows a summary of any suppliers in the list."
 requires-python = ">=3.12"
 dependencies = [
     "fastapi>=0.115",

@@ -1,6 +1,6 @@
-# __APP_TITLE__
+# Meeting Vendors
 
-__APP_PURPOSE__
+Paste attendee names or emails from a meeting invite; the tool looks them up against the vendor directory and shows a summary of any suppliers in the list.
 
 This is an internal tool built on the company platform's paved road. This file is owned by the platform team and is the same in every app. The `/internal-tool` skill has the longer version.
 
